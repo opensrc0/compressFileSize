@@ -1,6 +1,6 @@
 {
   "name": "compressfilesize",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Reduce file size of image or any file, it will reduce quality of image",
   "main": "compressfilesize.js",
   "scripts": {
