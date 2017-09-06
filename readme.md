@@ -1,5 +1,6 @@
 # Compress File Size
 
+
         Step 1:- Install this package
 
         Step 2:- Include compressfilesize.js in your file
