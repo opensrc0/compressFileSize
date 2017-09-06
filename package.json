@@ -2,7 +2,7 @@
   "name": "compressfilesize",
   "version": "1.0.3",
   "description": "Reduce file size of image or any file, it will reduce quality of image",
-  "main": "index.js",
+  "main": "compressfilesize.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,5 +1,5 @@
 Step 1:- Install this package
-Step 2:- Include index.js in your file
+Step 2:- Include compressfilesize.js in your file
 
 ex:- import reduceFileSize from './compressFileSize/index.js'
 
