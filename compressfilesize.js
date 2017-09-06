@@ -116,4 +116,4 @@ function reduceFileSize(file, callback, acceptFileSize = 500*1024, maxWidth = 10
     img.src = URL.createObjectURL(file);
 }
 
-export default reduceFileSize;
+exports.educeFileSize;
