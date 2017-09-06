@@ -1,0 +1,11 @@
+{
+  "name": "compressfilesize",
+  "version": "1.0.0",
+  "description": "Reduce file size of image or any file, it will reduce quality of image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "H Gupta",
+  "license": "ISC"
+}
