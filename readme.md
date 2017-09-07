@@ -14,7 +14,9 @@ ex:-
 Step 3:- reduceFileSize is a function in your file which having some parameter, first and second paramenter is mandatory.
 
 a) First is the file object to reduce size.
+
 b) Second is call back.
+
 c) Other params are optional, You can checkout compressfilesize.js for pass other params.
 
 ex:- 
